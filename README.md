@@ -1,2 +1,2 @@
-# Joseph Antony Vaikath
-## Avid coder and gamer
+# Joseph Antony Vaika
+
