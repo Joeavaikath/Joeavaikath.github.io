@@ -6,10 +6,10 @@ GitHub allows users to create user pages, wherein the page would be displayed th
 Also, I'm learning Markdown syntax while I'm at it. Fun!
 
 Main aims of this project:
-[]HTML up my user page
-[]Document said changes
-[]Learn Markdown syntax
-[x]Check something off to make it seem cool
+- [] HTML up my user page
+- [] Document said changes
+- [] Learn Markdown syntax
+- [x] Check something off to make it seem cool
 
 ### Why though?
 
@@ -21,15 +21,15 @@ Bonus, I get to make a neat user page that acts as my CV for easy sharing. Can't
 Alright, let me list out stuff I want on my user page:
 
 - Big banner with my name, subscripted links to my profiles on:
- - LinkedIn
- - GitHub
+  - LinkedIn
+  - GitHub
 - My internships
 - Acadamic Info
 - Language/Tool knowledge levels
 - Projects
 - Awards/Events Participated in
 - Optionally:
- -A summary section? This should immediately follow my banner
+  - A summary section? This should immediately follow my banner
 
  Content wise that would do. Heck, I could easily type that info out. Whats challenging is designing a good HTML template.
 
