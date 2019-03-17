@@ -6,9 +6,9 @@ GitHub allows users to create user pages, wherein the page would be displayed th
 Also, I'm learning Markdown syntax while I'm at it. Fun!
 
 Main aims of this project:
-- [] HTML up my user page
-- [] Document said changes
-- [] Learn Markdown syntax
+- [ ] HTML up my user page
+- [ ] Document said changes
+- [ ] Learn Markdown syntax
 - [x] Check something off to make it seem cool
 
 ### Why though?
