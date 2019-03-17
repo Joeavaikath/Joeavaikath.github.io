@@ -1,6 +1,6 @@
 # GitHub User Page Guide
-##Basic Info
-###What is this?
+## Basic Info
+### What is this?
 
 GitHub allows users to create user pages, wherein the page would be displayed through the link https://???.github.io. Replace ??? with your GitHub username.
 Also, I'm learning Markdown syntax while I'm at it. Fun!
@@ -11,12 +11,12 @@ Main aims of this project:
 []Learn Markdown syntax
 [x]Check something off to make it seem cool
 
-###Why though?
+### Why though?
 
 As of starting this project my HTML/CSS/JS knowledge is *dismal*. I want to change that.
 Bonus, I get to make a neat user page that acts as my CV for easy sharing. Can't just have a offline PDF file for that in 2019 now can we.
 
-##Walkthrough
+## Walkthrough
 
 Alright, let me list out stuff I want on my user page:
 
