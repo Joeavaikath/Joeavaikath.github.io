@@ -16,7 +16,7 @@ Main aims of this project:
 As of starting this project my HTML/CSS/JS knowledge is *dismal*. I want to change that.
 Bonus, I get to make a neat user page that acts as my CV for easy sharing. Can't just have a offline PDF file for that in 2019 now can we.
 
-## Walkthrough
+## Stuff I want
 
 Alright, let me list out stuff I want on my user page:
 
@@ -36,6 +36,10 @@ Alright, let me list out stuff I want on my user page:
  Design wise I could see:
  - Parallax scrolling
  - ??
+ 
+ ## Actions taken
+ 
+ Trying to see if Bootstrap helps me in any way
 
  
 
