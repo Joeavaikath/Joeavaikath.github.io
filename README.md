@@ -2,7 +2,9 @@
 ## Basic Info
 ### What is this?
 
-GitHub allows users to create user pages, wherein the page would be displayed through the link https://???.github.io. Replace ??? with your GitHub username.
+GitHub allows users to create user pages, wherein the page would be displayed through the link 
+>>>         https://???.github.io 
+Replace ??? with your GitHub username.
 Also, I'm learning Markdown syntax while I'm at it. Fun!
 
 Main aims of this project:
